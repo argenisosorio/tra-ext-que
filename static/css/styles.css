@@ -1,0 +1,63 @@
+body {
+    /*background: #313639;*/
+    background: #1d1d20;
+}
+
+.navbar {
+    border: ridge 1px red;
+    height: 30px;
+}
+
+.main-container {
+    padding-bottom: 30px;
+    /*border: ridge 1px blue;*/
+}
+
+._df_book {
+    border-radius: 20px;
+    /*background-color: #313639 !important;*/
+    background-color: #1d1d20 !important;
+    background:url("/static/img/background.png") no-repeat;
+}
+
+.df-ui-wrapper {
+    border: ridge 1px transparent !important;
+}
+
+/*
+.df-container.df-floating > .df-ui-next, .df-container.df-floating > .df-ui-prev {
+    border-radius: 100%;
+    width: 60px;
+    background: #737373;
+}
+*/
+
+.df-container > .df-ui-next, .df-container > .df-ui-prev {
+    color: #FAFAFA !important;
+}
+
+/*
+.df-page-content {
+    border: ridge 1px red !important;
+    -webkit-box-shadow: -1px 0px 25px 1px gray;
+    -moz-box-shadow: -1px 0px 25px 1px gray;
+    box-shadow: -1px 0px 25px 1px gray;
+
+}
+*/
+
+/*
+.df-page-content-left {
+    border: ridge 1px transparent !important;
+}
+
+.df-page-content-right {
+    border: ridge 1px transparent !important;
+}
+*/
+
+/*
+.annotationDiv {
+    border: ridge 1px red !important;
+}
+*/
