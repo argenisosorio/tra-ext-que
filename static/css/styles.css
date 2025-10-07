@@ -17,7 +17,7 @@ body {
     border-radius: 20px;
     /*background-color: #313639 !important;*/
     background-color: #1d1d20 !important;
-    background:url("/static/img/background.png") no-repeat;
+    background:url("../img/background.png") no-repeat;
 }
 
 .df-ui-wrapper {
